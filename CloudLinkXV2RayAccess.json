@@ -7,5 +7,13 @@
         "cBlockGet": "nVRXLFZibdb8CtpVx+LwRTkFThh0lZp6OUgzVL5FxvUIWS459IMpgi19/nOnps3GCM0B3v5aX3pWwQTUk2HgmA==",
         "cBlockPost": "OQtK3yiEK7I60jP6JxPUNz3bAef6EdLZbxgZ/VxAgM+KhigDyjkEFdVw9FE=",
         "cBlockNotice": "QGWBVgH9GLdSibYW87/AuCJCeqT1vBi4PV719U5UIclwRHgE3/3Ysofve4eCMAgzy7YNOzx2v/wyoVS7wY6Ye+aDiKhW8nxyQCstRFSohZTA5AnIQz7jNpl59vc3aKO/jE9kO7RARnw="
+    },
+     "app.fixbuild.vpncore.cloudlinkXCv2ray": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "JVzxshrQaTjIGIyoba5NLYH0/kYUrZnypxh8yMOLeYFtIuE8FE0mpIo51G9ccZ+ktAiq54ZA0Ho=",
+        "cBlockGet": "nVRXLFZibdb8CtpVx+LwRTkFThh0lZp6OUgzVL5FxvUIWS459IMpgi19/nOnps3GCM0B3v5aX3pWwQTUk2HgmA==",
+        "cBlockPost": "OQtK3yiEK7I60jP6JxPUNz3bAef6EdLZbxgZ/VxAgM+KhigDyjkEFdVw9FE=",
+        "cBlockNotice": "QGWBVgH9GLdSibYW87/AuCJCeqT1vBi4PV719U5UIclwRHgE3/3Ysofve4eCMAgzy7YNOzx2v/wyoVS7wY6Ye+aDiKhW8nxyQCstRFSohZTA5AnIQz7jNpl59vc3aKO/jE9kO7RARnw="
     }
 }
