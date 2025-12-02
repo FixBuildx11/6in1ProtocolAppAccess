@@ -7,5 +7,13 @@
         "cBlockGet": "vuPpM+2ixfSz2VCDBv/u0xrydaUPF6T4Fp58L/GqLe4fO6HLQ8zd+W3Gj4xqnk1xpwVr2uAiZwLYaf/ZLh4umw==",
         "cBlockPost": "OQtK3yiEK7I60jP6JxPUNz3bAef6EdLZbxgZ/VxAgM+KhigDyjkEFdVw9FE=",
         "cBlockNotice": "z3K+aETpC9QBg83qPu0OZs/mqq7NU59JIjoew40sdmv2s0bh3qUVdLcgSVBDe5dTnQetgheQ55rQdoNwcqtTw/SuTicAAKJCqzrGJkU0ITHYaFDcTGE5OFxBDOtnlcTc7O699Q=="
+    },
+    "app.fixbuild.vpncore.netifyv2rayX": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "RHEjyaoayP6pRqw6SipriqdfDrLlALnM+BYW7tVoST8Q8h74lavKR3Fj65dkkYnv",
+        "cBlockGet": "vuPpM+2ixfSz2VCDBv/u0xrydaUPF6T4Fp58L/GqLe4fO6HLQ8zd+W3Gj4xqnk1xpwVr2uAiZwLYaf/ZLh4umw==",
+        "cBlockPost": "OQtK3yiEK7I60jP6JxPUNz3bAef6EdLZbxgZ/VxAgM+KhigDyjkEFdVw9FE=",
+        "cBlockNotice": "eXk+3rFrEyEwOPouDgCKEl7ZLve5gVXPTDbhi9tAIe8ym9VRAj4YmbCsU205vea6NtvwqgBlFM7L3wNl/OOBd9ePovieo4HnGBmR7WppyAgZl52aXFGE1QaAKAL2PYRP9U3+gg=="
     }
 }
